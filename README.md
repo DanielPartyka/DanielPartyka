@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Daniel Partyka, I'm Azure/AWS Cloud System Engineer working mainly in Azure.
+Azure/AWS Cloud Engineer working mainly in Azure.
 
 <p>
   <img width="300" height="150" src="https://www.sandipuniversity.edu.in/blog/wp-content/uploads/2019/11/Cloud-Technology-blog.jpg">
